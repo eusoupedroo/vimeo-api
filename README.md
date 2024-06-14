@@ -1,3 +1,7 @@
+![Capturar](https://github.com/eusoupedroo/vimeo-api/assets/43014726/e316ca3f-9bd8-4f68-99be-6817e7b06241)
+![Capturar1](https://github.com/eusoupedroo/vimeo-api/assets/43014726/000480a0-1b41-420f-be5a-ef8e1c44de19)
+![Capturar2](https://github.com/eusoupedroo/vimeo-api/assets/43014726/95f3dcde-4155-44b0-8758-f94ccfc8ab5c)
+
 ### About This Project
 This PHP project allows you to upload videos to Vimeo using the Vimeo API. The application provides a simple interface to upload videos and obtain direct links to manage them on Vimeo.
 
