@@ -122,9 +122,9 @@ error_reporting(E_ALL);
 
 // Example usage:
 $config = array(
-    'clientId' => 'c71ae120de0ce7fd4f74315780fcde8ab6bd2131',
-    'clientSecret' => 'kGWARlpkok1eJPO+goYvK6+D8hxTdwUK2a+so9wr5YxRp7k8E+5RX0fMbT9vYFIvgzfOxgom41f7d7r7h5bRfBZAAsPHVWvfrWGulumASmrEMQf447eBPIobWd5S636D',
-    'accessToken' => '48585f2ef83e7cf8efde490bbf30db36'
+    'clientId' => 'your_client_id',
+    'clientSecret' => 'your_client_secret',
+    'accessToken' => 'your_access_token'
 );
 
 $videoService = new VideoService($config['clientId'], $config['clientSecret'], $config['accessToken']);
